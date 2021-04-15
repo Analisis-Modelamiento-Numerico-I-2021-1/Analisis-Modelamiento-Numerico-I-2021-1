@@ -1,1 +1,1 @@
-# Analisis-Modelamiento-Numerico-I-2021-1
+# Analisis y Modelamiento Numérico I 2021-1
